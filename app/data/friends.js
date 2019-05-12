@@ -1,4 +1,5 @@
 var friends = [
+    //Test image links 
 	{
 		name: "Chante Ray",
         photo: "https://www.gettyimages.com/detail/photo/fashionable-woman-texting-outdoors-royalty-free-image/619265078?adppopup=true",
